@@ -1,2 +1,3 @@
 # fx
-This is a sample project
+This is a sample project.
+Key has been generated!
